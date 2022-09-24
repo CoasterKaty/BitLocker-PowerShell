@@ -16,3 +16,7 @@ Settings Catalog type profile:
 
 Windows Components > BitLocker Drive Encryption > Operating System Drives - Allow enhanced PINs for Startup, Enabled
 
+
+
+Katy Nicholson
+2022-09-24
